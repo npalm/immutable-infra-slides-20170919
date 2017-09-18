@@ -1,0 +1,7 @@
+
+                                 x
+
+- ec2:
+    count: 10
+    image: ami-x
+    instance_type: t2.micro
